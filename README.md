@@ -9,6 +9,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+<b>University Projects</b>: 
 - <b>Java</b>
   - [Entry-level Messaging App](https://github.com/iliaskarageorgas/Distribution-Systems-messaging-app)
   - [E-shop via console](https://github.com/iliaskarageorgas/Java-Eshop)

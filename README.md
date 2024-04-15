@@ -2,10 +2,8 @@
 
 <h2>:lock: Cyber Security Projects:</h2>
 
-- <b>SOC Lab</b>
-  - [Praciting DS & Algos in Python]()
-- <b>Malware Analysis Lab</b>
-  - [Praciting DS & Algos in Python]()
+- [SOC Home Lab]()
+- [Malware Analysis Lab]()
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

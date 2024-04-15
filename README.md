@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1>Hey, I'm Ilias! <br/> <a href="https://github.com/iliaskarageorgas">Cybersecurity Professional</a>, <a href="https://github.com/iliaskarageorgas">Programmer</a>
 
-<!--
-**iliaskarageorgas/iliaskarageorgas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>:lock: Cyber Security Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>SOC Lab</b>
+  - [Praciting DS & Algos in Python]()
+- <b>Malware Analysis Lab</b>
+  - [Praciting DS & Algos in Python]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Java</b>
+  - [Entry-level Messaging App](https://github.com/iliaskarageorgas/Distribution-Systems-messaging-app)
+  - [E-shop via console](https://github.com/iliaskarageorgas/Java-Eshop)
+- <b>Python</b>
+  - [Movie Review Categorizing AI](https://github.com/iliaskarageorgas/Movie-Review-Categorising-AI) 
+  - [Queen Puzzle AI](https://github.com/iliaskarageorgas/Queen-Puzzle-AI)
+  - [Missionaries and Canibals Problem AI](https://github.com/iliaskarageorgas/Missionairies-and-Cannibals-AI)
+- <b>JavaScript</b>
+  - [Drum-Machine in p5.js](https://github.com/iliaskarageorgas/Drum-Machine-p5.js)
+- <b>C++</b>
+  - [Pong Video Game](https://github.com/iliaskarageorgas/Pong)

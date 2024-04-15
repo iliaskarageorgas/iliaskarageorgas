@@ -1,4 +1,4 @@
-<h1>Hey, I'm Ilias! <br/> <a href="https://github.com/iliaskarageorgas">Cybersecurity Professional</a>, <a href="https://github.com/iliaskarageorgas">Programmer</a>
+<h1>Hey, I'm Ilias! <br/> <a href="https://github.com/iliaskarageorgas">Cybersecurity Professional</a>
 
 <h2>:lock: Cyber Security Projects:</h2>
 

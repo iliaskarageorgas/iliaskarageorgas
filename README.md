@@ -3,7 +3,6 @@
 <h2>:lock: Cyber Security Projects:</h2>
 
 - [SOC Home Lab](https://github.com/iliaskarageorgas/SOC-Home-Lab)
-- [Elastic SIEM Home Lab](https://github.com/iliaskarageorgas/SOC-Home-Lab)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

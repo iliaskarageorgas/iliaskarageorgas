@@ -2,6 +2,7 @@
 
 <h2>:lock: Cyber Security Projects:</h2>
 
+- [Sentinel SIEM](https://github.com/iliaskarageorgas/Sentinel-SIEM)
 - [SOC Home Lab](https://github.com/iliaskarageorgas/SOC-Home-Lab)
 
 <h2>👨‍💻 Software Development Projects:</h2>
